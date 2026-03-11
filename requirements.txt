@@ -1,0 +1,7 @@
+requests>=2.31.0
+yt-dlp>=2023.10.13
+rich>=13.0.0
+art>=5.9
+pyfiglet>=0.8.post1
+ascii-magic>=2.4
+textual>=0.50.0
