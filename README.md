@@ -89,3 +89,33 @@ A escolha pelo purismo do terminal. Em vez de interfaces baseadas em "prints", o
 - **Tratamento de Interrupções:** Gestão elegante do `KeyboardInterrupt` (Ctrl+C) para garantir que o terminal não fica desconfigurado ("sujo") quando o utilizador aborta a aplicação de forma forçada, devolvendo o controlo limpo à shell.
 
 > *"Resumo da Obra: Uma stack purista, leve e incrivelmente rápida. Sem bases de dados pesadas ou frameworks complexos. Apenas a sintonia perfeita entre o Python nativo, a manipulação de matrizes de ecrã com o curses e o poder de reprodução do mpv."*
+
+### 📸 7. O Telemaniax em Ação
+
+* Confira abaixo algumas capturas de tela e demonstrações do projeto rodando na prática, mostrando a interface fluida e a reprodução dos canais direto do conforto do terminal:
+
+
+
+# Estrutura de Seleção de Canais
+
+![Footage do Telemaniax](imagens/footage.png)
+
+
+
+# Sintonização
+
+
+
+![Footage do Telemaniax](imagens/footage2.png)
+
+
+
+# Exibição
+
+
+
+![Footage do Telemaniax](imagens/footage4.png)
+
+
+
+![Footage do Telemaniax](imagens/footage5.png)
