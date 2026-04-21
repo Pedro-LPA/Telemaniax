@@ -48,6 +48,8 @@ A dupla dinâmica responsável por reproduzir os canais e fazer a magia acontece
 
 - **Repositório Base:** [iptv-org/iptv](https://github.com/iptv-org/iptv "null") (Um projeto gigantesco no GitHub gerido pela comunidade que compila listas públicas de IPTV de todo o mundo de forma legal).
 
+- **Fonte Local:** O Telemaniax utiliza um arquivo M3U8 local (`novalista.m3u8`) com canais brasileiros, permitindo reprodução offline e maior controle sobre a lista de canais.
+
 - **URL Específica:** O ficheiro `.m3u` que contém os dados de todos os canais do Brasil.
 
 - **Rede:** Biblioteca Python `requests` utilizada para fazer o pedido HTTP (download) do ficheiro diretamente do GitHub para a memória do programa.
